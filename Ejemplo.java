@@ -8,6 +8,7 @@ public class Ejemplo{
            float varFlotante = 3.14159
            // esta es la version desde la rama copia
            int valorEntero = 10;
+           char letra = 'a';
         )
     )
 )
